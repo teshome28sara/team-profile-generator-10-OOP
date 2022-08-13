@@ -33,3 +33,7 @@ Depending on which team number I selected from the list to add, I am asked speci
 [part-1-video](https://drive.google.com/file/d/1VauwKqyyrnXkCZXzreK4SY_SPG5CPCeH/view)
 [part-2-video](https://drive.google.com/file/d/1VFsjiZmopH72QccnSgQa85_sS59n-rLq/view)
 [par-3-video](https://drive.google.com/file/d/1z0FPLwvI-fYRID4lSDhaY288obZE7E5M/view)
+
+### screenshot
+
+![Screenshot of team profile generator](/Assets/team_profile_generator.png "Quiz generated team profile")
